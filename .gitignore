@@ -9,3 +9,8 @@
 
 # mstest test results
 TestResults
+/.vs/EssentialCSharp/DesignTimeBuild/.dtbcache.v2
+/.vs/EssentialCSharp/v17/.futdcache.v1
+/.vs/EssentialCSharp/v17/fileList.bin
+/EssentialCSharp/.vs/EssentialCSharp5/config/applicationhost.config
+/EssentialCSharp/UpgradeLog.htm
